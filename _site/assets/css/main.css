@@ -74,8 +74,6 @@ ul {
 }
 
 #photography button.image-small img.image-small {
-  max-width: 300px;
-  max-height: 300px;
   float: left;
   margin: 10px 10px;
 }
